@@ -1,3 +1,5 @@
+<h2>Dog Breed Classifier</h2>
+
 <h4>Project Overview</h4>
 
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, 
