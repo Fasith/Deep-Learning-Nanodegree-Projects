@@ -22,3 +22,6 @@ $conda install numpy matplotlib pandas jupyter notebook
 Run the following to open up the notebook server:
 
 $jupyter notebook
+
+<hr>
+<h4>NOTE:- </h4> The training data is not included in this repository
